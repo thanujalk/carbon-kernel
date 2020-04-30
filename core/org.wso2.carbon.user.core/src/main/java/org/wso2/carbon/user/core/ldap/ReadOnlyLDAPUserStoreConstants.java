@@ -44,7 +44,7 @@ public class ReadOnlyLDAPUserStoreConstants {
     private static final String DisplayNameAttribute = "DisplayNameAttribute";
     private static final String roleDNPattern = "RoleDNPattern";
     private static final String roleDNPatternDescription =
-            "The patten for groups's DN. It can be defined to improve " + "the LDAP search";
+            "The patten for groups's DN. It can be defined to improve the LDAP search";
 
     static {
 
